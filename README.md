@@ -1,6 +1,6 @@
 # Sinon can't stub some exports when used with ES6 modules
 
-##Install
+## Install
 `npm i`
 
 ## Run test 

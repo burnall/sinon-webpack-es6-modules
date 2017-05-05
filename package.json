@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "test": "karma start",
+    "w": "webpack"
+  },
+  "dependencies": {
+    "babel-core": "6.24.1",
+    "babel-loader": "7.0.0",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-stage-3": "6.24.1",
+    "chai": "3.5.0",
+    "karma": "1.6.0",
+    "karma-chai": "0.1.0",
+    "karma-mocha": "1.3.0",
+    "karma-mocha-reporter ": "2.2.3",
+    "karma-phantomjs-launcher": "1.0.4",
+    "karma-sourcemap-loader": "0.3.7",
+    "karma-webpack": "2.0.3",
+    "mocha": "3.3.0",
+    "sinon": "2.2.0",
+    "webpack": "2.5.0",
+    "webpack-dev-server": "2.4.5"
+  }
+}

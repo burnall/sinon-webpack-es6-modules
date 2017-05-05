@@ -1,0 +1,1 @@
+# sinon-webpack-es6-modules
